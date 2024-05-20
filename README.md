@@ -1,5 +1,5 @@
 # Hi there 👋, I am Hemal Karmakar
-## Passionate Cybersecurity Enthusiast | Aspiring SOC Analyst
+### Passionate Cybersecurity Enthusiast | Aspiring SOC Analyst
 ![Passionate Cybersecurity Enthusiast | Aspiring SOC Analyst](https://media.licdn.com/dms/image/D5616AQH5WlbRF3Nekg/profile-displaybackgroundimage-shrink_350_1400/0/1683433750371?e=1721865600&v=beta&t=6b6e5M5TpIBXTNSfgk1cwWr6M3zLoeYyF4GhzMcBLLg)
 
 Namasker! I'm Hemal Karmakar, a dedicated and aspiring cybersecurity enthusiast currently pursuing my undergraduate degree in Computer Science. With a strong passion for cybersecurity, I am eager to explore and contribute to this dynamic field. My journey began with a basic understanding of cybersecurity concepts, and I am now committed to honing my skills and knowledge to embark on a fulfilling career path.
@@ -13,4 +13,7 @@ Skills: Windows | Linux | Kali Linux | Metasploitable | Python | JS | Splunk | C
 - 🤔 I’m looking for help with preparing for cybersecurity certifications such as CompTIA Security+ or CEH. 
 - 😄 Pronouns: He/Him 
 
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/hemalkk)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/hemalkk365//)  
+ 
 
