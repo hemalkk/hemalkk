@@ -8,7 +8,6 @@ My goal is to transition into a role within a Security Operations Center (SOC), 
 
 Skills: Windows | Linux | Kali Linux | Metasploitable | Python | JS | Splunk | CyberOps Associate | CCNA | MTCNA
 
-- 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning about cybersecurity. 
 - 🤔 I’m looking for help with preparing for cybersecurity certifications such as CompTIA Security+ or CEH. 
 - 😄 Pronouns: He/Him 
